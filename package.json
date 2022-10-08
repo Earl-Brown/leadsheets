@@ -1,0 +1,15 @@
+{
+	"name": "leadsheets",
+	"version": "1.0.0",
+	"description": "A collection of chordpro(ish) files",
+	"main": "build.mjs",
+	"scripts": {
+		"build": "node .",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"fast-glob": "^3.2.12"
+	}
+}
