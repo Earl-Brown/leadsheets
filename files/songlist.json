@@ -84,62 +84,6 @@
     "title": "Away in a Manger"
   },
   {
-    "filename": "b/Be Still My Soul.crd",
-    "title": "Be Still My Soul"
-  },
-  {
-    "filename": "b/Be Thou My Vision.crd",
-    "title": "Be Thou My Vision"
-  },
-  {
-    "filename": "b/Because He Lives.crd",
-    "title": "Because He Lives"
-  },
-  {
-    "filename": "b/Before You.crd",
-    "title": "Before You"
-  },
-  {
-    "filename": "b/Blessed Assurance, Jesus Is Mine.crd",
-    "title": "Blessed Assurance, Jesus Is Mine"
-  },
-  {
-    "filename": "b/Born In Bethlehem.crd",
-    "title": "Born In Bethlehem"
-  },
-  {
-    "filename": "b/Break Every Chain.crd",
-    "title": "Break Every Chain"
-  },
-  {
-    "filename": "b/Breathe On Me, Breath Of God.crd",
-    "title": "Breathe On Me, Breath Of God"
-  },
-  {
-    "filename": "b/Build My Life.crd",
-    "title": "Build My Life"
-  },
-  {
-    "filename": "d/Dancing On The Waves.crd",
-    "title": "Dancing On The Waves"
-  },
-  {
-    "filename": "d/Day By Day.crd",
-    "title": "Day By Day"
-  },
-  {
-    "filename": "d/Days Of Elijah.crd",
-    "title": "Days of Elijah"
-  },
-  {
-    "filename": "d/Do It Again.crd",
-    "title": "Do it Again"
-  },
-  {
-    "filename": "d/Dwell.crd",
-    "title": "Dwell"
-  },
-  {
     "filename": "c/Called Me Higher.crd",
     "title": "Called Me Higher"
   },
@@ -202,6 +146,62 @@
   {
     "filename": "c/Create In Me A Clean Heart.crd",
     "title": "Create In Me A Clean Heart"
+  },
+  {
+    "filename": "b/Be Still My Soul.crd",
+    "title": "Be Still My Soul"
+  },
+  {
+    "filename": "b/Be Thou My Vision.crd",
+    "title": "Be Thou My Vision"
+  },
+  {
+    "filename": "b/Because He Lives.crd",
+    "title": "Because He Lives"
+  },
+  {
+    "filename": "b/Before You.crd",
+    "title": "Before You"
+  },
+  {
+    "filename": "b/Blessed Assurance, Jesus Is Mine.crd",
+    "title": "Blessed Assurance, Jesus Is Mine"
+  },
+  {
+    "filename": "b/Born In Bethlehem.crd",
+    "title": "Born In Bethlehem"
+  },
+  {
+    "filename": "b/Break Every Chain.crd",
+    "title": "Break Every Chain"
+  },
+  {
+    "filename": "b/Breathe On Me, Breath Of God.crd",
+    "title": "Breathe On Me, Breath Of God"
+  },
+  {
+    "filename": "b/Build My Life.crd",
+    "title": "Build My Life"
+  },
+  {
+    "filename": "d/Dancing On The Waves.crd",
+    "title": "Dancing On The Waves"
+  },
+  {
+    "filename": "d/Day By Day.crd",
+    "title": "Day By Day"
+  },
+  {
+    "filename": "d/Days Of Elijah.crd",
+    "title": "Days of Elijah"
+  },
+  {
+    "filename": "d/Do It Again.crd",
+    "title": "Do it Again"
+  },
+  {
+    "filename": "d/Dwell.crd",
+    "title": "Dwell"
   },
   {
     "filename": "e/Easier.crd",
@@ -886,6 +886,10 @@
   {
     "filename": "w/White As Snow.crd",
     "title": "White As Snow"
+  },
+  {
+    "filename": "w/Whole World.crd",
+    "title": "Whole World"
   },
   {
     "filename": "w/Will You Come And Followed Me.crd",
