@@ -1,8 +1,7 @@
 {
-	"comment": "trying to force an updatet",
 	"headers": [
 		{
-			"source": "*",
+			"source": "/(.*)",
 			"headers": [
 				{
 					"key": "Access-Control-Allow-Credentials",
