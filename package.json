@@ -5,6 +5,7 @@
 	"main": "build.mjs",
 	"scripts": {
 		"build": "node .",
+    "debug": "http-server files --cors",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "",
