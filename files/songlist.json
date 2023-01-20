@@ -84,6 +84,42 @@
     "title": "Away in a Manger"
   },
   {
+    "filename": "b/Be Still My Soul.crd",
+    "title": "Be Still My Soul"
+  },
+  {
+    "filename": "b/Be Thou My Vision.crd",
+    "title": "Be Thou My Vision"
+  },
+  {
+    "filename": "b/Because He Lives.crd",
+    "title": "Because He Lives"
+  },
+  {
+    "filename": "b/Before You.crd",
+    "title": "Before You"
+  },
+  {
+    "filename": "b/Blessed Assurance, Jesus Is Mine.crd",
+    "title": "Blessed Assurance, Jesus Is Mine"
+  },
+  {
+    "filename": "b/Born In Bethlehem.crd",
+    "title": "Born In Bethlehem"
+  },
+  {
+    "filename": "b/Break Every Chain.crd",
+    "title": "Break Every Chain"
+  },
+  {
+    "filename": "b/Breathe On Me, Breath Of God.crd",
+    "title": "Breathe On Me, Breath Of God"
+  },
+  {
+    "filename": "b/Build My Life.crd",
+    "title": "Build My Life"
+  },
+  {
     "filename": "c/Called Me Higher.crd",
     "title": "Called Me Higher"
   },
@@ -148,62 +184,6 @@
     "title": "Create In Me A Clean Heart"
   },
   {
-    "filename": "b/Be Still My Soul.crd",
-    "title": "Be Still My Soul"
-  },
-  {
-    "filename": "b/Be Thou My Vision.crd",
-    "title": "Be Thou My Vision"
-  },
-  {
-    "filename": "b/Because He Lives.crd",
-    "title": "Because He Lives"
-  },
-  {
-    "filename": "b/Before You.crd",
-    "title": "Before You"
-  },
-  {
-    "filename": "b/Blessed Assurance, Jesus Is Mine.crd",
-    "title": "Blessed Assurance, Jesus Is Mine"
-  },
-  {
-    "filename": "b/Born In Bethlehem.crd",
-    "title": "Born In Bethlehem"
-  },
-  {
-    "filename": "b/Break Every Chain.crd",
-    "title": "Break Every Chain"
-  },
-  {
-    "filename": "b/Breathe On Me, Breath Of God.crd",
-    "title": "Breathe On Me, Breath Of God"
-  },
-  {
-    "filename": "b/Build My Life.crd",
-    "title": "Build My Life"
-  },
-  {
-    "filename": "d/Dancing On The Waves.crd",
-    "title": "Dancing On The Waves"
-  },
-  {
-    "filename": "d/Day By Day.crd",
-    "title": "Day By Day"
-  },
-  {
-    "filename": "d/Days Of Elijah.crd",
-    "title": "Days of Elijah"
-  },
-  {
-    "filename": "d/Do It Again.crd",
-    "title": "Do it Again"
-  },
-  {
-    "filename": "d/Dwell.crd",
-    "title": "Dwell"
-  },
-  {
     "filename": "e/Easier.crd",
     "title": "Easier"
   },
@@ -226,6 +206,26 @@
   {
     "filename": "e/Evidence.crd",
     "title": "Evidence"
+  },
+  {
+    "filename": "d/Dancing On The Waves.crd",
+    "title": "Dancing On The Waves"
+  },
+  {
+    "filename": "d/Day By Day.crd",
+    "title": "Day By Day"
+  },
+  {
+    "filename": "d/Days Of Elijah.crd",
+    "title": "Days of Elijah"
+  },
+  {
+    "filename": "d/Do It Again.crd",
+    "title": "Do it Again"
+  },
+  {
+    "filename": "d/Dwell.crd",
+    "title": "Dwell"
   },
   {
     "filename": "f/Finally Free.crd",
@@ -334,6 +334,10 @@
   {
     "filename": "h/He Lifted Me Out.crd",
     "title": "He Lifted Me Out"
+  },
+  {
+    "filename": "h/Heart of God.crd",
+    "title": "Heart of God"
   },
   {
     "filename": "h/Heart of Worship.crd",
@@ -521,7 +525,7 @@
   },
   {
     "filename": "j/Just As I Am.crd",
-    "title": "Just As I Am.crd"
+    "title": "Just As I Am"
   },
   {
     "filename": "k/Knowing You.crd",
@@ -568,34 +572,6 @@
     "title": "Lord, Please Don't Forsake Me"
   },
   {
-    "filename": "n/New Doxology.crd",
-    "title": "New Doxolgy"
-  },
-  {
-    "filename": "n/New Wine.crd",
-    "title": "New Wine"
-  },
-  {
-    "filename": "n/No Longer Slaves.crd",
-    "title": "No Longer Slaves"
-  },
-  {
-    "filename": "n/Nobody Else.crd",
-    "title": "Nobody Else"
-  },
-  {
-    "filename": "n/Nothing But The Blood + Here's My Heart.crd",
-    "title": "Nothing But the Blood + Here's My Heart"
-  },
-  {
-    "filename": "n/Nothing But The Blood + The Stand.crd",
-    "title": "Nothing But the Blood + the Stand"
-  },
-  {
-    "filename": "n/Nothing But The Blood Of Jesus.crd",
-    "title": "Nothing But the Blood of Jesus"
-  },
-  {
     "filename": "m/Made Alive.crd",
     "title": "Made Alive"
   },
@@ -638,6 +614,34 @@
   {
     "filename": "m/My Victory.crd",
     "title": "My Victory"
+  },
+  {
+    "filename": "n/New Doxology.crd",
+    "title": "New Doxolgy"
+  },
+  {
+    "filename": "n/New Wine.crd",
+    "title": "New Wine"
+  },
+  {
+    "filename": "n/No Longer Slaves.crd",
+    "title": "No Longer Slaves"
+  },
+  {
+    "filename": "n/Nobody Else.crd",
+    "title": "Nobody Else"
+  },
+  {
+    "filename": "n/Nothing But The Blood + Here's My Heart.crd",
+    "title": "Nothing But the Blood + Here's My Heart"
+  },
+  {
+    "filename": "n/Nothing But The Blood + The Stand.crd",
+    "title": "Nothing But the Blood + the Stand"
+  },
+  {
+    "filename": "n/Nothing But The Blood Of Jesus.crd",
+    "title": "Nothing But the Blood of Jesus"
   },
   {
     "filename": "o/O Come To The Altar.crd",
