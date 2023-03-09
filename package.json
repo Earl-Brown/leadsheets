@@ -5,12 +5,13 @@
 	"main": "build.mjs",
 	"scripts": {
 		"build": "node .",
-    "debug": "http-server files --cors",
+		"debug": "http-server files --cors",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "",
 	"license": "ISC",
 	"devDependencies": {
-		"fast-glob": "^3.2.12"
+		"fast-glob": "^3.2.12",
+		"http-server": "^14.1.1"
 	}
 }
