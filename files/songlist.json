@@ -80,6 +80,14 @@
     "title": "As The Deer"
   },
   {
+    "filename": "a/At The Cross (Alternative).crd",
+    "title": "At The Cross (Alternative chords)"
+  },
+  {
+    "filename": "a/At The Cross.crd",
+    "title": "At The Cross"
+  },
+  {
     "filename": "a/Awake My Soul.crd",
     "title": "Awake My Soul"
   },
@@ -149,11 +157,15 @@
   },
   {
     "filename": "c/Come As You Are (Crowder).crd",
-    "title": "Come As You Are (Alternative)"
+    "title": "Come As You Are (Crowder)"
   },
   {
-    "filename": "c/Come As You Are.crd",
-    "title": "Come As You Are"
+    "filename": "c/Come As You Are (Crowder, Alternative).crd",
+    "title": "Come As You Are (Crowder, Alternative)"
+  },
+  {
+    "filename": "c/Come As You Are (Helming).crd",
+    "title": "Come As You Are (Helming)"
   },
   {
     "filename": "c/Come Down.crd",
@@ -466,6 +478,10 @@
   {
     "filename": "i/I Waited For The Lord On High.crd",
     "title": "I Waited For The Lord On High"
+  },
+  {
+    "filename": "i/I Walk By Faith.crd",
+    "title": "I Walk By Faith"
   },
   {
     "filename": "i/I Will Follow.crd",
