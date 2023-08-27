@@ -24,20 +24,20 @@
     "title": "All My Tears"
   },
   {
-    "filename": "a/All of Me.crd",
-    "title": "All of Me"
-  },
-  {
     "filename": "a/All The Poor and Powerless.crd",
     "title": "All The Poor and Powerless"
   },
   {
-    "filename": "a/All to Us.crd",
-    "title": "All To Us"
-  },
-  {
     "filename": "a/All Who Are Thirsty.crd",
     "title": "All Who Are Thirsty"
+  },
+  {
+    "filename": "a/All of Me.crd",
+    "title": "All of Me"
+  },
+  {
+    "filename": "a/All to Us.crd",
+    "title": "All To Us"
   },
   {
     "filename": "a/Always.crd",
@@ -78,6 +78,14 @@
   {
     "filename": "a/As The Deer.crd",
     "title": "As The Deer"
+  },
+  {
+    "filename": "a/At The Cross (Alternative).crd",
+    "title": "At The Cross (Alternative chords)"
+  },
+  {
+    "filename": "a/At The Cross.crd",
+    "title": "At The Cross"
   },
   {
     "filename": "a/Awake My Soul.crd",
@@ -149,11 +157,15 @@
   },
   {
     "filename": "c/Come As You Are (Crowder).crd",
-    "title": "Come As You Are (Alternative)"
+    "title": "Come As You Are (Crowder)"
   },
   {
-    "filename": "c/Come As You Are.crd",
-    "title": "Come As You Are"
+    "filename": "c/Come As You Are (Crowder, Alternative).crd",
+    "title": "Come As You Are (Crowder, Alternative)"
+  },
+  {
+    "filename": "c/Come As You Are (Helming).crd",
+    "title": "Come As You Are (Helming)"
   },
   {
     "filename": "c/Come Down.crd",
@@ -172,12 +184,12 @@
     "title": "Come Thou Long-Expected Jesus"
   },
   {
-    "filename": "c/Come to the Altar.crd",
-    "title": "Come To The Altar"
-  },
-  {
     "filename": "c/Come What May.crd",
     "title": "Come What May"
+  },
+  {
+    "filename": "c/Come to the Altar.crd",
+    "title": "Come To The Altar"
   },
   {
     "filename": "c/Cornerstone.crd",
@@ -272,16 +284,16 @@
     "title": "Go Tell It On A Mashup"
   },
   {
-    "filename": "g/God of This City.crd",
-    "title": "God of This City"
-  },
-  {
     "filename": "g/God Rest Ye Merry Gentlemen.crd",
     "title": "God Rest Ye Merry Gentlemen"
   },
   {
     "filename": "g/God So Loved.crd",
     "title": "Song title"
+  },
+  {
+    "filename": "g/God of This City.crd",
+    "title": "God of This City"
   },
   {
     "filename": "g/God, I Look To You.crd",
@@ -466,6 +478,10 @@
   {
     "filename": "i/I Waited For The Lord On High.crd",
     "title": "I Waited For The Lord On High"
+  },
+  {
+    "filename": "i/I Walk By Faith.crd",
+    "title": "I Walk By Faith"
   },
   {
     "filename": "i/I Will Follow.crd",
@@ -860,12 +876,12 @@
     "title": "This I Believe (The Creed)"
   },
   {
-    "filename": "t/This is a Move.crd",
-    "title": "This is a Move"
-  },
-  {
     "filename": "t/This Is Amazing Grace.crd",
     "title": "This Is Amazing Grace"
+  },
+  {
+    "filename": "t/This is a Move.crd",
+    "title": "This is a Move"
   },
   {
     "filename": "t/Thy Word.crd",
