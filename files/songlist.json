@@ -24,20 +24,20 @@
     "title": "All My Tears"
   },
   {
-    "filename": "a/All The Poor and Powerless.crd",
-    "title": "All The Poor and Powerless"
-  },
-  {
-    "filename": "a/All Who Are Thirsty.crd",
-    "title": "All Who Are Thirsty"
-  },
-  {
     "filename": "a/All of Me.crd",
     "title": "All of Me"
   },
   {
+    "filename": "a/All The Poor and Powerless.crd",
+    "title": "All The Poor and Powerless"
+  },
+  {
     "filename": "a/All to Us.crd",
     "title": "All To Us"
+  },
+  {
+    "filename": "a/All Who Are Thirsty.crd",
+    "title": "All Who Are Thirsty"
   },
   {
     "filename": "a/Always.crd",
@@ -184,12 +184,12 @@
     "title": "Come Thou Long-Expected Jesus"
   },
   {
-    "filename": "c/Come What May.crd",
-    "title": "Come What May"
-  },
-  {
     "filename": "c/Come to the Altar.crd",
     "title": "Come To The Altar"
+  },
+  {
+    "filename": "c/Come What May.crd",
+    "title": "Come What May"
   },
   {
     "filename": "c/Cornerstone.crd",
@@ -284,16 +284,16 @@
     "title": "Go Tell It On A Mashup"
   },
   {
+    "filename": "g/God of This City.crd",
+    "title": "God of This City"
+  },
+  {
     "filename": "g/God Rest Ye Merry Gentlemen.crd",
     "title": "God Rest Ye Merry Gentlemen"
   },
   {
     "filename": "g/God So Loved.crd",
-    "title": "Song title"
-  },
-  {
-    "filename": "g/God of This City.crd",
-    "title": "God of This City"
+    "title": "God So Loved"
   },
   {
     "filename": "g/God, I Look To You.crd",
@@ -386,6 +386,10 @@
   {
     "filename": "h/Hold On To Me.crd",
     "title": "Hold On To Me"
+  },
+  {
+    "filename": "h/Holy Forever.crd",
+    "title": "Holy Forever"
   },
   {
     "filename": "h/Holy Is The Lord.crd",
@@ -880,12 +884,12 @@
     "title": "This I Believe (The Creed)"
   },
   {
-    "filename": "t/This Is Amazing Grace.crd",
-    "title": "This Is Amazing Grace"
-  },
-  {
     "filename": "t/This is a Move.crd",
     "title": "This is a Move"
+  },
+  {
+    "filename": "t/This Is Amazing Grace.crd",
+    "title": "This Is Amazing Grace"
   },
   {
     "filename": "t/Thy Word.crd",
