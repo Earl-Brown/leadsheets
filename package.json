@@ -4,7 +4,6 @@
 	"description": "A collection of chordpro(ish) files",
 	"main": "build.mjs",
 	"scripts": {
-    "prepare": "npm install",
 		"build": "node .",
     "debug": "http-server files --cors=* -p 8000",
 		"test": "echo \"Error: no test specified\" && exit 1"
