@@ -10,8 +10,10 @@
 	},
 	"author": "",
 	"license": "ISC",
+  "dependencies": {
+		"fast-glob": "^3.2.12"
+  },
 	"devDependencies": {
-		"fast-glob": "^3.2.12",
 		"http-server": "^14.1.1"
 	}
 }
