@@ -256,6 +256,26 @@
     "title": "Evidence"
   },
   {
+    "filename": "f/Finally Free.crd",
+    "title": "Finally Free"
+  },
+  {
+    "filename": "f/First Love.crd",
+    "title": "First Love"
+  },
+  {
+    "filename": "f/For Me.crd",
+    "title": "For Me"
+  },
+  {
+    "filename": "f/Forever Reign.crd",
+    "title": "Forever Reign"
+  },
+  {
+    "filename": "f/From The Inside Out.crd",
+    "title": "From The Inside Out"
+  },
+  {
     "filename": "g/Give Us Clean Hands.crd",
     "title": "Give Us Clean Hands"
   },
@@ -338,154 +358,6 @@
   {
     "filename": "g/Greater Grace.crd",
     "title": "Greater Grace"
-  },
-  {
-    "filename": "f/Finally Free.crd",
-    "title": "Finally Free"
-  },
-  {
-    "filename": "f/First Love.crd",
-    "title": "First Love"
-  },
-  {
-    "filename": "f/For Me.crd",
-    "title": "For Me"
-  },
-  {
-    "filename": "f/Forever Reign.crd",
-    "title": "Forever Reign"
-  },
-  {
-    "filename": "f/From The Inside Out.crd",
-    "title": "From The Inside Out"
-  },
-  {
-    "filename": "h/Hark, The Herald Angels Sing.crd",
-    "title": "Hark, The Herald Angels Sing"
-  },
-  {
-    "filename": "h/He Is The Love.crd",
-    "title": "He Is The Love"
-  },
-  {
-    "filename": "h/He Knows My Name.crd",
-    "title": "He Knows My Name"
-  },
-  {
-    "filename": "h/He Lifted Me Out.crd",
-    "title": "He Lifted Me Out"
-  },
-  {
-    "filename": "h/Heart of God.crd",
-    "title": "Heart of God"
-  },
-  {
-    "filename": "h/Heart of Worship.crd",
-    "title": "Heart of Worship"
-  },
-  {
-    "filename": "h/Here I Am To Worship.crd",
-    "title": "Creating Here I Am To Worship"
-  },
-  {
-    "filename": "h/Here's My Heart.crd",
-    "title": "Here's My Heart"
-  },
-  {
-    "filename": "h/His Eye Is On The Sparrow.crd",
-    "title": "His Eye Is On The Sparrow"
-  },
-  {
-    "filename": "h/Hold On To Me.crd",
-    "title": "Hold On To Me"
-  },
-  {
-    "filename": "h/Holy Forever.crd",
-    "title": "Holy Forever"
-  },
-  {
-    "filename": "h/Holy Is The Lord.crd",
-    "title": "Holy Is The Lord"
-  },
-  {
-    "filename": "h/Holy Water.crd",
-    "title": "Holy Water"
-  },
-  {
-    "filename": "h/Hosanna, Loud Hosanna.crd",
-    "title": "Hosanna, Loud Hosanna"
-  },
-  {
-    "filename": "h/House Of God Forever.crd",
-    "title": "House Of God Forever"
-  },
-  {
-    "filename": "h/House of The Lord.crd",
-    "title": "House Of The Lord"
-  },
-  {
-    "filename": "h/How Deep The Father's Love For Us.crd",
-    "title": "How Deep The Father's Love For Us"
-  },
-  {
-    "filename": "h/How Great Is Our God.crd",
-    "title": "How Great Is Our God"
-  },
-  {
-    "filename": "h/How Great Thou Art.crd",
-    "title": "How Great Thou Art"
-  },
-  {
-    "filename": "h/How He Loves.crd",
-    "title": "How He Loves"
-  },
-  {
-    "filename": "h/How Many Kings.crd",
-    "title": "How Many Kings"
-  },
-  {
-    "filename": "h/Hungry (Falling On My Knees).crd",
-    "title": "Hungry (Falling On My Knees)"
-  },
-  {
-    "filename": "h/Hymn of Heaven.crd",
-    "title": "Hymn of Heaven"
-  },
-  {
-    "filename": "j/Jesus Does.crd",
-    "title": "Jesus Does"
-  },
-  {
-    "filename": "j/Jesus Loves Me.crd",
-    "title": "Jesus Loves Me (Twist and Shout)"
-  },
-  {
-    "filename": "j/Jesus Messiah.crd",
-    "title": "Jesus Messiah"
-  },
-  {
-    "filename": "j/Jesus Paid It All.crd",
-    "title": "Jesus Paid It All"
-  },
-  {
-    "filename": "j/Joy To The World.crd",
-    "title": "Joy to the World"
-  },
-  {
-    "filename": "j/Joyful Joyful We Adore Thee.crd",
-    "title": "Joyful Joyful We Adore Thee"
-  },
-  {
-    "filename": "j/Jude Doxology.crd",
-    "title": "Jude Doxology"
-  },
-  {
-    "filename": "j/Just A Closer Walk With Thee.crd",
-    "title": "Just A Closer Walk With Thee"
-  },
-  {
-    "filename": "j/Just As I Am.crd",
-    "title": "Just As I Am"
   },
   {
     "filename": "i/I Am The Resurrection.crd",
@@ -592,12 +464,140 @@
     "title": "It's Christmas"
   },
   {
+    "filename": "h/Hark, The Herald Angels Sing.crd",
+    "title": "Hark, The Herald Angels Sing"
+  },
+  {
+    "filename": "h/He Is The Love.crd",
+    "title": "He Is The Love"
+  },
+  {
+    "filename": "h/He Knows My Name.crd",
+    "title": "He Knows My Name"
+  },
+  {
+    "filename": "h/He Lifted Me Out.crd",
+    "title": "He Lifted Me Out"
+  },
+  {
+    "filename": "h/Heart of God.crd",
+    "title": "Heart of God"
+  },
+  {
+    "filename": "h/Heart of Worship.crd",
+    "title": "Heart of Worship"
+  },
+  {
+    "filename": "h/Here I Am To Worship.crd",
+    "title": "Creating Here I Am To Worship"
+  },
+  {
+    "filename": "h/Here's My Heart.crd",
+    "title": "Here's My Heart"
+  },
+  {
+    "filename": "h/His Eye Is On The Sparrow.crd",
+    "title": "His Eye Is On The Sparrow"
+  },
+  {
+    "filename": "h/Hold On To Me.crd",
+    "title": "Hold On To Me"
+  },
+  {
+    "filename": "h/Holy Forever.crd",
+    "title": "Holy Forever"
+  },
+  {
+    "filename": "h/Holy Is The Lord.crd",
+    "title": "Holy Is The Lord"
+  },
+  {
+    "filename": "h/Holy Water.crd",
+    "title": "Holy Water"
+  },
+  {
+    "filename": "h/Hosanna, Loud Hosanna.crd",
+    "title": "Hosanna, Loud Hosanna"
+  },
+  {
+    "filename": "h/House Of God Forever.crd",
+    "title": "House Of God Forever"
+  },
+  {
+    "filename": "h/House of The Lord.crd",
+    "title": "House Of The Lord"
+  },
+  {
+    "filename": "h/How Deep The Father's Love For Us.crd",
+    "title": "How Deep The Father's Love For Us"
+  },
+  {
+    "filename": "h/How Great Is Our God.crd",
+    "title": "How Great Is Our God"
+  },
+  {
+    "filename": "h/How Great Thou Art.crd",
+    "title": "How Great Thou Art"
+  },
+  {
+    "filename": "h/How He Loves.crd",
+    "title": "How He Loves"
+  },
+  {
+    "filename": "h/How Many Kings.crd",
+    "title": "How Many Kings"
+  },
+  {
+    "filename": "h/Hungry (Falling On My Knees).crd",
+    "title": "Hungry (Falling On My Knees)"
+  },
+  {
+    "filename": "h/Hymn of Heaven.crd",
+    "title": "Hymn of Heaven"
+  },
+  {
     "filename": "k/King of My Heart.crd",
     "title": "King of My Heart"
   },
   {
     "filename": "k/Knowing You.crd",
     "title": "Knowing You"
+  },
+  {
+    "filename": "j/Jesus Does.crd",
+    "title": "Jesus Does"
+  },
+  {
+    "filename": "j/Jesus Loves Me.crd",
+    "title": "Jesus Loves Me (Twist and Shout)"
+  },
+  {
+    "filename": "j/Jesus Messiah.crd",
+    "title": "Jesus Messiah"
+  },
+  {
+    "filename": "j/Jesus Paid It All.crd",
+    "title": "Jesus Paid It All"
+  },
+  {
+    "filename": "j/Joy To The World.crd",
+    "title": "Joy to the World"
+  },
+  {
+    "filename": "j/Joyful Joyful We Adore Thee.crd",
+    "title": "Joyful Joyful We Adore Thee"
+  },
+  {
+    "filename": "j/Jude Doxology.crd",
+    "title": "Jude Doxology"
+  },
+  {
+    "filename": "j/Just A Closer Walk With Thee.crd",
+    "title": "Just A Closer Walk With Thee"
+  },
+  {
+    "filename": "j/Just As I Am.crd",
+    "title": "Just As I Am"
   },
   {
     "filename": "l/Lamb Of God.crd",
@@ -728,54 +728,6 @@
     "title": "Nothing But the Blood of Jesus"
   },
   {
-    "filename": "p/Praise Him.crd",
-    "title": "Praise Him"
-  },
-  {
-    "filename": "p/Protector Of My Soul.crd",
-    "title": "Protector Of My Soul"
-  },
-  {
-    "filename": "p/Psalm 23.crd",
-    "title": "Psalm 23"
-  },
-  {
-    "filename": "p/Psalm 5.crd",
-    "title": "Psalm 5"
-  },
-  {
-    "filename": "r/Raise a Hallelujah.crd",
-    "title": "Raise a Halleluja"
-  },
-  {
-    "filename": "r/Reckless Love Of God.crd",
-    "title": "Reckless Love of God"
-  },
-  {
-    "filename": "r/Redeemed (Big Daddy Weave).crd",
-    "title": "Redeemed"
-  },
-  {
-    "filename": "r/Redeemed (John Barnett).crd",
-    "title": "Redeemed"
-  },
-  {
-    "filename": "r/Resurrecting.crd",
-    "title": "Resurrecting"
-  },
-  {
-    "filename": "r/Revelation Song.crd",
-    "title": "Revelation Song"
-  },
-  {
-    "filename": "r/Revive Us Again.crd",
-    "title": "Revive Us Again"
-  },
-  {
-    "filename": "r/Rise Up Lazarus.crd",
-    "title": "Rise Up Lazarus"
-  },
-  {
     "filename": "o/O Come To The Altar.crd",
     "title": "O Come To The Altar"
   },
@@ -862,6 +814,54 @@
   {
     "filename": "s/Summer Breeze.crd",
     "title": "Summer Breeze"
+  },
+  {
+    "filename": "r/Raise a Hallelujah.crd",
+    "title": "Raise a Halleluja"
+  },
+  {
+    "filename": "r/Reckless Love Of God.crd",
+    "title": "Reckless Love of God"
+  },
+  {
+    "filename": "r/Redeemed (Big Daddy Weave).crd",
+    "title": "Redeemed"
+  },
+  {
+    "filename": "r/Redeemed (John Barnett).crd",
+    "title": "Redeemed"
+  },
+  {
+    "filename": "r/Resurrecting.crd",
+    "title": "Resurrecting"
+  },
+  {
+    "filename": "r/Revelation Song.crd",
+    "title": "Revelation Song"
+  },
+  {
+    "filename": "r/Revive Us Again.crd",
+    "title": "Revive Us Again"
+  },
+  {
+    "filename": "r/Rise Up Lazarus.crd",
+    "title": "Rise Up Lazarus"
+  },
+  {
+    "filename": "p/Praise Him.crd",
+    "title": "Praise Him"
+  },
+  {
+    "filename": "p/Protector Of My Soul.crd",
+    "title": "Protector Of My Soul"
+  },
+  {
+    "filename": "p/Psalm 23.crd",
+    "title": "Psalm 23"
+  },
+  {
+    "filename": "p/Psalm 5.crd",
+    "title": "Psalm 5"
   },
   {
     "filename": "t/Take My Heart.crd",
@@ -982,6 +982,10 @@
   {
     "filename": "w/What A Friend We Have In Jesus.crd",
     "title": "What A Friend We Have In Jesus"
+  },
+  {
+    "filename": "w/What A Miracle.crd",
+    "title": "What a Miracle"
   },
   {
     "filename": "w/What Child Is This.crd",
